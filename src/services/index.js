@@ -1,0 +1,1 @@
+module.exports.joinerService = require('./joiner.service');

@@ -4,7 +4,7 @@ const config = require('../config');
 const swaggerDef = {
   openapi: '3.0.0',
   info: {
-    title: 'newJoinners-API',
+    title: 'newJoiners-API',
     version,
     license: {
       name: 'MIT'
